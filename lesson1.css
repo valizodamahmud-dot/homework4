@@ -537,9 +537,7 @@ img {
     box-shadow: 0 5px 20px #171c2c;
 }
 
-.box55 {
-    width: 45%;
-}
+
 
 .box56 {
     width: 55%;
@@ -661,101 +659,9 @@ img {
     font-size: 13px;
 }
 
-@media (max-width: 900px) {
 
-    .box2 {
-        width: 90%;
-    }
+@media (max-width: 500px) {
 
-    .box4 {
-        gap: 12px;
-    }
-
-    .box5 {
-        gap: 12px;
-    }
-
-    .box11 {
-        width: 85%;
-    }
-
-    .box12 h1 {
-        font-size: 38px;
-    }
-
-    .box9 {
-        right: 5%;
-    }
-
-    .box10 {
-        right: 8%;
-    }
-
-    .box24 {
-        width: 85%;
-    }
-
-    .box25 {
-        gap: 8px;
-        padding: 8px;
-    }
-
-    .box25 h4 {
-        font-size: 10px;
-    }
-
-    .box29 {
-        width: 70%;
-    }
-
-    .box37 {
-        width: 90%;
-    }
-
-    .box42 {
-        width: 90%;
-        gap: 12px;
-    }
-
-    .box43 {
-        padding: 20px 15px;
-    }
-
-    .box44 p {
-        font-size: 9px;
-    }
-
-    .box47 {
-        width: 95px;
-    }
-
-    .box51 {
-        width: 90%;
-        gap: 25px;
-    }
-
-    .box52 h1 {
-        font-size: 25px;
-    }
-
-    .box54 {
-        width: 85%;
-    }
-
-    .box56 {
-        padding: 30px 25px;
-    }
-
-    .box61 {
-        width: 90%;
-        gap: 25px;
-    }
-
-}
-
-@media (max-width: 600px) {
-
-    /* HEADER */
 
     .box1 {
         min-height: auto;
@@ -786,7 +692,7 @@ img {
     }
 
     .box5 {
-        gap: 12px;
+        display: none;
     }
 
     .box6 {
@@ -1059,101 +965,3 @@ img {
 
 }
 
-@media (max-width: 380px) {
-
-    .box2 {
-        width: 92%;
-    }
-
-    .box4 h3 {
-        font-size: 10px;
-    }
-
-    .box7 {
-        width: 115px;
-        font-size: 9px;
-    }
-
-    .box12 h1 {
-        font-size: 29px;
-    }
-
-    .box12 p {
-        font-size: 12px;
-    }
-
-    .box23 h2 {
-        font-size: 20px;
-    }
-
-    .box25 h4 {
-        font-size: 11px;
-    }
-
-    .box29 {
-        width: 92%;
-    }
-
-    .box31 {
-        font-size: 8px;
-    }
-
-    .box36 h2 {
-        font-size: 21px;
-    }
-
-    .box43 {
-        padding: 15px 10px;
-    }
-
-    .box44 p {
-        font-size: 8px;
-        line-height: 15px;
-    }
-
-    .box44 h3 {
-        font-size: 13px;
-    }
-
-    .box46 h2 {
-        font-size: 23px;
-    }
-
-    .box47 {
-        width: 85px;
-        font-size: 9px;
-    }
-
-    .box52 h1 {
-        font-size: 22px;
-    }
-
-    .box52 p {
-        font-size: 11px;
-        line-height: 19px;
-    }
-
-    .box55 {
-        height: 200px;
-    }
-
-    .box56 {
-        padding: 25px 15px;
-    }
-
-    .box56 h2 {
-        font-size: 20px;
-    }
-
-    .box61 {
-        width: 88%;
-    }
-
-    .box66 {
-        font-size: 10px;
-    }
-    .box5{
-        display: none;
-    }
-
-}
