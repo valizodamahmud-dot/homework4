@@ -25,7 +25,7 @@ img {
     max-width: 100%;
 }
 
-.box1 {
+.n1 {
     width: 100%;
     min-height: 750px;
     background: #252b43;
@@ -34,7 +34,7 @@ img {
     color: white;
 }
 
-.box2 {
+.n2 {
     width: 73%;
     height: 60px;
     margin: auto;
@@ -45,37 +45,37 @@ img {
     z-index: 5;
 }
 
-.box3 {
+.n3 {
     font-size: 20px;
     font-weight: bold;
 }
 
-.box4 {
+.n4 {
     display: flex;
     align-items: center;
     gap: 25px;
 }
 
-.box4 h3 {
+.n4 h3 {
     font-size: 13px;
     font-weight: normal;
     cursor: pointer;
 }
 
-.box5 {
+.n5 {
     display: flex;
     align-items: center;
     gap: 30px;
 }
 
-.box6 {
+.n6 {
     color: white;
     text-decoration: none;
     font-size: 13px;
     font-weight: bold;
 }
 
-.box7 {
+.n7 {
     width: 167px;
     height: 42px;
     background: #23a6f0;
@@ -86,12 +86,12 @@ img {
     font-weight: bold;
 }
 
-.box7 span {
-    margin-left: 12px;
-    font-size: 17px;
+.n7 span {
+    margin-left: 10px;
+    font-size: 20px;
 }
 
-.box8 {
+.n8 {
     position: absolute;
     width: 250px;
     height: 220px;
@@ -101,7 +101,7 @@ img {
     left: -90px;
 }
 
-.box9 {
+.n9 {
     position: absolute;
     width: 420px;
     height: 370px;
@@ -111,7 +111,7 @@ img {
     right: 13%;
 }
 
-.box10 {
+.n10 {
     position: absolute;
     width: 390px;
     height: 370px;
@@ -122,7 +122,7 @@ img {
     opacity: 0.5;
 }
 
-.box11 {
+.n11 {
     width: 73%;
     min-height: 600px;
     margin: auto;
@@ -133,30 +133,30 @@ img {
     z-index: 2;
 }
 
-.box12 {
+.n12 {
     width: 55%;
     padding-bottom: 40px;
 }
 
-.box12 h1 {
+.n12 h1 {
     font-size: 48px;
     line-height: 1.3;
     font-weight: bold;
     margin-bottom: 30px;
 }
 
-.box12 p {
+.n12 p {
     font-size: 17px;
     line-height: 24px;
     margin-bottom: 28px;
 }
 
-.box13 {
+.n13 {
     display: flex;
     gap: 8px;
 }
 
-.box14 {
+.n14 {
     width: 145px;
     height: 42px;
     background: #23a6f0;
@@ -167,7 +167,7 @@ img {
     font-weight: bold;
 }
 
-.box15 {
+.n15 {
     width: 120px;
     height: 42px;
     background: transparent;
@@ -178,7 +178,7 @@ img {
     font-weight: bold;
 }
 
-.box11 > img {
+.n11  img {
     width: 40%;
     max-width: 400px;
     height: auto;
@@ -188,31 +188,31 @@ img {
     z-index: 3;
 }
 
-.box22 {
+.n22 {
     width: 100%;
     background: #252b43;
     padding: 65px 0 70px;
 }
 
-.box23 {
+.n23 {
     text-align: center;
     color: white;
 }
 
-.box23 h2 {
+.n23 h2 {
     font-size: 25px;
     line-height: 1.4;
     font-weight: bold;
 }
 
-.box23 p {
+.n23 p {
     color: #85899a;
     font-size: 10px;
     line-height: 15px;
     margin-top: 8px;
 }
 
-.box24 {
+.n24 {
     width: 72%;
     margin: 40px auto 0;
     display: grid;
@@ -220,7 +220,7 @@ img {
     gap: 18px;
 }
 
-.box25 {
+.n25 {
     min-height: 86px;
     border: 1px solid #85899a;
     display: flex;
@@ -230,7 +230,7 @@ img {
     color: white;
 }
 
-.box26 {
+.n26 {
     width: 40px;
     min-width: 40px;
     display: flex;
@@ -238,44 +238,44 @@ img {
     justify-content: center;
 }
 
-.box26 img {
+.n26 img {
     width: 35px;
     height: 35px;
     object-fit: contain;
 }
 
-.box25 h4 {
+.n25 h4 {
     font-size: 11px;
     margin-bottom: 6px;
 }
 
-.box25 p {
+.n25 p {
     font-size: 9px;
     line-height: 14px;
 }
 
-.box27 {
+.n27 {
     width: 100%;
     background: #252b43;
     padding: 25px 0 70px;
 }
 
-.box28 {
+.n28 {
     text-align: center;
     color: white;
 }
 
-.box28 h2 {
+.n28 h2 {
     font-size: 25px;
     margin-bottom: 10px;
 }
 
-.box28 p {
+.n28 p {
     font-size: 10px;
     line-height: 15px;
 }
 
-.box29 {
+.n29 {
     width: 51%;
     min-height: 222px;
     background: white;
@@ -287,14 +287,14 @@ img {
     padding: 25px 15px;
 }
 
-.box30 {
+.n30 {
     width: 60px;
     height: 60px;
     border-radius: 50%;
     object-fit: cover;
 }
 
-.box31 {
+.n31 {
     color: #737373;
     font-size: 10px;
     text-align: center;
@@ -302,29 +302,29 @@ img {
     margin-top: 18px;
 }
 
-.box32 {
+.n32 {
     margin-top: 8px;
 }
 
-.box32 img {
+.n32 img {
     width: 105px;
     height: auto;
     object-fit: contain;
 }
 
-.box33 {
+.n33 {
     color: #252b43;
     font-size: 15px;
     margin-top: 8px;
 }
 
-.box34 {
+.n34 {
     color: #737373;
     font-size: 10px;
     margin-top: 7px;
 }
 
-.box35 {
+.n35 {
     width: 100%;
     min-height: 280px;
     background: #252b43;
@@ -682,9 +682,8 @@ img {
 
     .box4 {
         width: 100%;
-        order: 3;
         justify-content: space-between;
-        gap: 8px;
+        flex-direction: column;
     }
 
     .box4 h3 {
